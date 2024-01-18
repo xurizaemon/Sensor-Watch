@@ -34,6 +34,7 @@ const watch_face_t watch_faces[] = {
     countdown_face,
     thermistor_readout_face,
     moon_phase_face,
+    alarm_face,
     preferences_face,
     set_time_face
 };
